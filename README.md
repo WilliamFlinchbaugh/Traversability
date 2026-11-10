@@ -1,5 +1,7 @@
 # Traversability Mapping
 
+This fork just changes the "cv_bridge.h" import to "cv_bridge.hpp" to be compatible with ROS2 Jazzy.
+
 This ROS2 package produces traversability cost maps based on point cloud statistics and ground robot characteristics. It is built upon the library [Grid Map](https://github.com/ANYbotics/grid_map/tree/master) to allow proper visualization of the map.
 
 <p align='center'>

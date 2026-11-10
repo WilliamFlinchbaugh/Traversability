@@ -8,7 +8,7 @@
 #include <visualization_msgs/msg/marker.hpp>
 #include <visualization_msgs/msg/marker_array.hpp>
 
-#include <cv_bridge/cv_bridge.h>
+#include <cv_bridge/cv_bridge.hpp>
 #include <grid_map_cv/grid_map_cv.hpp>
 #include <grid_map_ros/grid_map_ros.hpp>
 #include <opencv2/highgui/highgui.hpp>
